@@ -1,2 +1,2 @@
 # test1
-desc
+this is a description about my first github repository.
